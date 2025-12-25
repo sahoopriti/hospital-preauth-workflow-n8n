@@ -7,8 +7,9 @@ Verification teams manually collect documents across WhatsApp, email, and HIS
 Insurers respond slowly or miss required documents
 Follow-ups are manual, inconsistent, and often forgotten
 Staff spend most of their time status checking instead of decision making
-<img width="536" height="530" alt="image" src="https://github.com/user-attachments/assets/a212b9c6-ad08-4f0c-8a44-4180785a1046" />
+
 
 <img width="906" height="598" alt="image" src="https://github.com/user-attachments/assets/4f891215-0cbb-4748-bf8b-d10dbedb4b1a" />
 
-<img width="1188" height="427" alt="image" src="https://github.com/user-attachments/assets/5374fc73-f03a-43f3-8c21-a5635c491327" />
+Checkout Link:
+https://lock-jab-05883522.figma.site/
